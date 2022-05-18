@@ -21,6 +21,7 @@ public class demo05 {
             sum = sum + x;
             System.out.println("你输入了第" +m+ "个数据，然后当前结果是sum"+sum);
         }
+
         System.out.println(m + "sum:" + sum);
         System.out.println(m + "sum2:" + (sum/m));
 
